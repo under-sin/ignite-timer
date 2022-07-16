@@ -2,4 +2,4 @@
 
 Pomodoro
 
-[ignite time](iginiteTimer.png)
+![Screenshot](igniteTimer.png)
