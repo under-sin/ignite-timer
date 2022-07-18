@@ -1,5 +1,5 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "ignite-timer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -25,5 +25,7 @@
     "eslint": "^8.20.0",
     "typescript": "^4.6.4",
     "vite": "^3.0.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
